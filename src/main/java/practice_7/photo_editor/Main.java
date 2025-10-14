@@ -2,6 +2,7 @@ package practice_7.photo_editor;
 
 public class Main {
     public static void main(String[] args) {
+
         PhotoEditor photoEditor = new PhotoEditor();
 
         photoEditor.addNewAction("1");
